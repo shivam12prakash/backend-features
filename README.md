@@ -25,6 +25,8 @@ The project is built with the help of these technologies:
 
 * ![Node.js]
 * ![Express.js]
+* Redis
+* Prisma ORM
 * Docker
 * Various npm Libraries
 
